@@ -17,3 +17,7 @@ deploy text
 ## How to Contribute
 
 how to text2
+
+### Copyright
+
+2014 Git.Traning
