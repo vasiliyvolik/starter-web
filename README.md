@@ -22,4 +22,4 @@ please form the text
 
 ### Copyright
 
-2014 Git.Traning
+2014 Git.Traning All right
